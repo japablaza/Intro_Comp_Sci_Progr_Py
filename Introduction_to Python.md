@@ -35,15 +35,9 @@ Algorithms: 1. steps , 2. flow of control, and 3. when to stop.
 - OUTput
 
 ## Languages
-- primitive constructs
-  numbers
-  strings
-  operations
-- Syntax
-  Static semantics
-  Syntactic errors
-  Static semantic errors
-  Different meaning than what programmer intended
+- primitive constructs numbers strings operations
+- Syntax Static semantics Syntactic errors Static semantic errors
+- Different meaning than what programmer intended
 - Determines whether a string is legal: Syntax
 - Determines whether a string has meaning: Static semantics
 - Assigns a meaning to a legal sentence: Semantic
@@ -71,11 +65,20 @@ Algorithms: 1. steps , 2. flow of control, and 3. when to stop.
     - `+ and -`
     Executed left to right
 
-## Data structure
-
+## Operators and Branching
+- Comparison operators on `int` and `float`
+  - `>`, `<`, `>=`, `<=`, `==`, `!=`
+- Logic operators on `bools`
+  -`not`, `and`, `or`
 ## Iteration and recursion
 
-## Abstraction
+## Variables --> Abstraction (assignment)
+- Binding variables and values `assignment using =`
+  - Value stored in computer  memory
+  - Also called `name table`
+  - Reuse names instead values
+  - Easier to change code later
+
 
 ## Organize and modularize
 
