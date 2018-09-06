@@ -79,6 +79,17 @@ Algorithms: 1. steps , 2. flow of control, and 3. when to stop.
   - Reuse names instead values
   - Easier to change code later
 
+## Bindings
+- Variables `name:value`
+
+## Strings
+- Sequence of characters
+- Concatenate strings using `+`
+- Successive concatenation `ab * 3`
+- Length of string `len('string')`
+- Slice string `string_var[2:5]`
+- String index `string_var[2]`
+- Copy of the string `var2 = string_var[:]`
 
 ## Organize and modularize
 
