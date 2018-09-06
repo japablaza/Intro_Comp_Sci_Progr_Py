@@ -88,8 +88,19 @@ Algorithms: 1. steps , 2. flow of control, and 3. when to stop.
 - Successive concatenation `ab * 3`
 - Length of string `len('string')`
 - Slice string `string_var[2:5]`
+- Slice string ``
 - String index `string_var[2]`
 - Copy of the string `var2 = string_var[:]`
+
+## Input/Output
+- `input()`
+- `print()`
+
+## IDEs
+- Integrated development environment
+
+## Control Flow
+- Branching program --> Evaluate a test `True` or `False`
 
 ## Organize and modularize
 
