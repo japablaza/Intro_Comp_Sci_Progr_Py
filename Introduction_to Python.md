@@ -101,7 +101,15 @@ Algorithms: 1. steps , 2. flow of control, and 3. when to stop.
 
 ## Control Flow
 - Branching program --> Evaluate a test `True` or `False`
-
+- `For` loop
+  - known number of iterations
+  - can end early via break
+  - uses a counter
+  - can rewrite a `for` loop using a `while` loop
+- `While` loop
+ - unbounded number of iterations
+ - can use a counter but must initialize before loop and increment it inside loop
+ - may not be able to rewrite a `while` loop using a `for` loop
 ## Organize and modularize
 
 ## Different classes  Algorithms
