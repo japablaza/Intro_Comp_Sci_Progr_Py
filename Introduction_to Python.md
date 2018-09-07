@@ -106,10 +106,12 @@ Algorithms: 1. steps , 2. flow of control, and 3. when to stop.
   - can end early via break
   - uses a counter
   - can rewrite a `for` loop using a `while` loop
+  - Terminates when it is `True`
 - `While` loop --> use when a condition is unknown
- - unbounded number of iterations
- - can use a counter but must initialize before loop and increment it inside loop
- - may not be able to rewrite a `while` loop using a `for` loop
+  - unbounded number of iterations
+  - can use a counter but must initialize before loop and increment it inside loop
+  - may not be able to rewrite a `while` loop using a `for` loop
+  - Terminates when it is `False`
 ## Organize and modularize
 
 ## Different classes  Algorithms
